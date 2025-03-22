@@ -1,0 +1,14 @@
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\bin\Debug\net9.0\PROJETO REVISAO.exe
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\bin\Debug\net9.0\PROJETO REVISAO.deps.json
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\bin\Debug\net9.0\PROJETO REVISAO.runtimeconfig.json
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\bin\Debug\net9.0\PROJETO REVISAO.dll
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\bin\Debug\net9.0\PROJETO REVISAO.pdb
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.dll
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\refint\PROJETO REVISAO.dll
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.pdb
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\PROJETO REVISAO.genruntimeconfig.cache
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\PROJETO 1\obj\Debug\net9.0\ref\PROJETO REVISAO.dll

@@ -1,0 +1,14 @@
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\bin\Debug\net9.0\EXERCICIOS.exe
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\bin\Debug\net9.0\EXERCICIOS.deps.json
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\bin\Debug\net9.0\EXERCICIOS.runtimeconfig.json
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\bin\Debug\net9.0\EXERCICIOS.dll
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\bin\Debug\net9.0\EXERCICIOS.pdb
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.AssemblyInfo.cs
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.dll
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\refint\EXERCICIOS.dll
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.pdb
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\EXERCICIOS.genruntimeconfig.cache
+C:\Users\FIC\Desktop\Pasta Alexandriny\.vs\PROJETO 1\EXERCICIOS\obj\Debug\net9.0\ref\EXERCICIOS.dll
